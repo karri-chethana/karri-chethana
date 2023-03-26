@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chethana K</h1>
+<h1 align="center">Hi 👋, I'm K Chethana</h1>
 <h3 align="center">A passionate web developer from India</h3>
 <img align="right" alt="Coding" width="500" src="profile cartoon.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karri-chethana&label=Profile%20views&color=0e75b6&style=flat" alt="karri-chethana" /> </p>
