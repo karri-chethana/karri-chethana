@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="500" src="profile cartoon.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karri-chethana&label=Profile%20views&color=0e75b6&style=flat" alt="karri-chethana" /> </p>
 
-- 🔭 I’m currently studying **BE CSE 3rd Year**
+- 🔭 I’m currently studying **BE CSE 4th Year**
 
 - 🌱 I’m currently learning **JavaScript**
 
